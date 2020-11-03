@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="221815" started-at="2020-10-05T15:13:28Z" finished-at="2020-10-05T15:17:09Z">
+    <groups>
+      <group name="High">
+        <method signature="VplTest.keywordSearchReturnsResults_Test()[pri:0, instance:Tests.VplTest@4411d970]" name="keywordSearchReturnsResults_Test" class="Tests.VplTest"/>
+      </group> <!-- High -->
+      <group name="Low">
+        <method signature="VplTest.nextPageHasResults_Test()[pri:0, instance:Tests.VplTest@4411d970]" name="nextPageHasResults_Test" class="Tests.VplTest"/>
+      </group> <!-- Low -->
+      <group name="Medium">
+        <method signature="VplTest.anyPageHasResults_Test()[pri:0, instance:Tests.VplTest@4411d970]" name="anyPageHasResults_Test" class="Tests.VplTest"/>
+      </group> <!-- Medium -->
+    </groups>
+    <test name="Command line test" duration-ms="221815" started-at="2020-10-05T15:13:28Z" finished-at="2020-10-05T15:17:09Z">
+      <class name="Tests.VplTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Tests.VplTest@4411d970]" name="setUp" is-config="true" duration-ms="39447" started-at="2020-10-05T11:13:28Z" finished-at="2020-10-05T11:14:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="anyPageHasResults_Test()[pri:0, instance:Tests.VplTest@4411d970]" name="anyPageHasResults_Test" duration-ms="76468" started-at="2020-10-05T11:14:07Z" finished-at="2020-10-05T11:15:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- anyPageHasResults_Test -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Tests.VplTest@4411d970]" name="tearDown" is-config="true" duration-ms="1900" started-at="2020-10-05T11:15:25Z" finished-at="2020-10-05T11:15:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Tests.VplTest@4411d970]" name="setUp" is-config="true" duration-ms="10608" started-at="2020-10-05T11:15:27Z" finished-at="2020-10-05T11:15:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="keywordSearchReturnsResults_Test()[pri:0, instance:Tests.VplTest@4411d970]" name="keywordSearchReturnsResults_Test" duration-ms="36147" started-at="2020-10-05T11:15:38Z" finished-at="2020-10-05T11:16:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- keywordSearchReturnsResults_Test -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Tests.VplTest@4411d970]" name="tearDown" is-config="true" duration-ms="2204" started-at="2020-10-05T11:16:15Z" finished-at="2020-10-05T11:16:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Tests.VplTest@4411d970]" name="setUp" is-config="true" duration-ms="5649" started-at="2020-10-05T11:16:17Z" finished-at="2020-10-05T11:16:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="nextPageHasResults_Test()[pri:0, instance:Tests.VplTest@4411d970]" name="nextPageHasResults_Test" duration-ms="42724" started-at="2020-10-05T11:16:23Z" finished-at="2020-10-05T11:17:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nextPageHasResults_Test -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Tests.VplTest@4411d970]" name="tearDown" is-config="true" duration-ms="2690" started-at="2020-10-05T11:17:07Z" finished-at="2020-10-05T11:17:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Tests.VplTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>

@@ -1,0 +1,42 @@
+2020-10-05T11:14:07.916 - 
+
+ Test Name: anyPageHasResults_Test
+
+
+2020-10-05T11:14:27.241 - Open Home Page
+2020-10-05T11:15:11.456 - HomePage - searchFor()
+2020-10-05T11:15:13.203 - HomePage - goToResultsPage()
+2020-10-05T11:15:13.353 - ResultsPage - isDisplayed()
+2020-10-05T11:15:14.085 - ResultsPage() - get ResultsPerPage()
+2020-10-05T11:15:15.747 - ResultsPage - goToPage()
+2020-10-05T11:15:17.035 - ResultsPage - isDisplayed()
+2020-10-05T11:15:19.834 - ResultsPage() - get ResultsPerPage()
+2020-10-05T11:15:20.884 - ResultsPage - goToPage()
+2020-10-05T11:15:20.931 - ResultsPage - isDisplayed()
+2020-10-05T11:15:24.120 - ResultsPage() - get ResultsPerPage()
+2020-10-05T11:15:38.368 - 
+
+ Test Name: keywordSearchReturnsResults_Test
+
+
+2020-10-05T11:15:52.960 - Open Home Page
+2020-10-05T11:16:14.099 - HomePage - searchFor()
+2020-10-05T11:16:14.103 - HomePage - goToResultsPage()
+2020-10-05T11:16:14.128 - ResultsPage - isDisplayed()
+2020-10-05T11:16:14.511 - ResultsPage - get TotalCount()
+2020-10-05T11:16:23.077 - 
+
+ Test Name: nextPageHasResults_Test
+
+
+2020-10-05T11:16:35.690 - Open Home Page
+2020-10-05T11:16:55.497 - HomePage - searchFor()
+2020-10-05T11:16:55.499 - HomePage - goToResultsPage()
+2020-10-05T11:16:55.585 - ResultsPage - isDisplayed()
+2020-10-05T11:16:56.074 - ResultsPage() - get ResultsPerPage()
+2020-10-05T11:16:57.075 - ResultsPage - goToNextPage()
+2020-10-05T11:16:57.659 - ResultsPage - isDisplayed()
+2020-10-05T11:17:00.994 - ResultsPage() - get ResultsPerPage()
+2020-10-05T11:17:02.214 - ResultsPage - goToNextPage()
+2020-10-05T11:17:02.938 - ResultsPage - isDisplayed()
+2020-10-05T11:17:05.798 - ResultsPage() - get ResultsPerPage()
